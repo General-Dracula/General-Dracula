@@ -1,8 +1,9 @@
-# Mircea_Dobre
+<h1 align="center">Hello there</h1>
+<h3 align="center">Software Engineering Student</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=General-Dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+- 🔭 I’m currently studying Software Engineering at VIA UC in Horsens
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=General-Dracula)](https://github.com/anuraghazra/github-readme-stats)
+- 📫 You can reach me here **dobremircea@yahoo.com**
 
 
 <p align="center"><img height="170px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=General-Dracula&layout=compact" alt="General-Dracula" /> <img height="170px" align="center" src="https://github-readme-stats.vercel.app/api?username=General-Dracula" alt="General-Dracula" /></p>
