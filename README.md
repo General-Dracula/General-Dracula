@@ -6,4 +6,5 @@
 - 📫 You can reach me here **dobremircea@yahoo.com**
 
 
-<p align="center"><img height="170px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=General-Dracula&layout=compact" alt="General-Dracula" /> <img height="170px" align="center" src="https://github-readme-stats.vercel.app/api?username=General-Dracula" alt="General-Dracula" /></p>
+
+<p align="center"><img height="170px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=General-Dracula&layout=compact &theme=dracula" alt="General-Dracula" /> <img height="170px" align="center" src="https://github-readme-stats.vercel.app/api?username=General-Dracula" alt="General-Dracula" /></p>
