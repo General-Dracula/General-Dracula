@@ -1,5 +1,5 @@
 <h1 align="center">Hello there</h1>
-<h3 align="center">Software Engineering Student</h3>
+<h3 align="center">Software Engineering graduate</h3>
 
 - 🔭 Software engineering graduate
 
