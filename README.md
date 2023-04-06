@@ -1,7 +1,7 @@
 <h1 align="center">Hello there</h1>
-<h3 align="center">Software Engineering graduate</h3>
+<h3 align="center">Software Engineer</h3>
 
-- 🔭 Software engineering graduate
+- 🔭 Software engineer
 
 - 📫 You can reach me here **dobremircea@ymail.com**
 
