@@ -12,4 +12,4 @@
 <p>
 </p>
 
-<p align="center"><img height="170px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=General-Dracula&layout=compact&theme=dracula&hide=javascript,csharp,shaderlab&langs_count=6" alt="General-Dracula" /> <img height="170px" align="center" src="https://github-readme-stats.vercel.app/api?username=General-Dracula&theme=dracula" alt="General-Dracula" /></p>
+<p align="center"><img height="170px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=General-Dracula&layout=compact&theme=dracula&hide=javascript&hide=csharp,shaderlab&langs_count=6" alt="General-Dracula" /> <img height="170px" align="center" src="https://github-readme-stats.vercel.app/api?username=General-Dracula&theme=dracula" alt="General-Dracula" /></p>
